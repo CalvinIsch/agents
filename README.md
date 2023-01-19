@@ -1,3 +1,3 @@
-# Optimism Curve
+# Agent Based Models
 
-This repo contains the data and code used in our paper. Download all files, install the necessary packages, and rerun the scripts to produce the figures. 
+This houses scripts to be run on external servers.
